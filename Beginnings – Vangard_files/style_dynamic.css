@@ -1,0 +1,195 @@
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/assets/custom-styles/general-custom-styles.php vangard_edge_design_styles function */
+.edgtf-preload-background { background-image: url(http://vangard.edge-themes.com/wp-content/themes/vangard/assets/img/preload_pattern.png) !important;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/assets/custom-styles/general-custom-styles.php vangard_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-webkit-input-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-moz-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 ::-moz-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 :-ms-input-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea { height: 164px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #818181;font-size: 12px;line-height: 25px;font-family: Montserrat;font-style: normal;font-weight: 700;text-transform: uppercase;letter-spacing: 0px;background-color: rgba(246, 246, 246, 1);border-width: 0px;border-radius: 0px;padding-top: 12px;padding-bottom: 12px;padding-left: 21px;margin-top: 0px;margin-bottom: 14px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-webkit-input-placeholder, .cf7_custom_style_1 textarea:focus::-webkit-input-placeholder { color: #8e8e8e;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-moz-placeholder, .cf7_custom_style_1 textarea:focus:-moz-placeholder { color: #8e8e8e;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus::-moz-placeholder, .cf7_custom_style_1 textarea:focus::-moz-placeholder { color: #8e8e8e;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input:focus:-ms-input-placeholder, .cf7_custom_style_1 textarea:focus:-ms-input-placeholder { color: #8e8e8e;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { color: #8e8e8e;background-color: rgba(246, 246, 246, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { font-size: 12px;height: 45px;font-family: Montserrat;font-style: normal;font-weight: 700;text-transform: uppercase;letter-spacing: 0px;background-color: rgba(255, 212, 1, 1);border-width: 0px;border-radius: 0px;padding-left: 73px;padding-right: 73px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(48, 48, 48, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-webkit-input-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-moz-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 ::-moz-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 :-ms-input-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #565656;font-size: 14px;line-height: 26px;font-family: Montserrat;font-weight: 400;letter-spacing: 0px;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 212, 1, 1);border-width: 1px;border-radius: 0px;padding-top: 8.5px;padding-right: 0px;padding-bottom: 8.5px;padding-left: 17px;margin-bottom: 0px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-webkit-input-placeholder, .cf7_custom_style_2 textarea:focus::-webkit-input-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-moz-placeholder, .cf7_custom_style_2 textarea:focus:-moz-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-moz-placeholder, .cf7_custom_style_2 textarea:focus::-moz-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-ms-input-placeholder, .cf7_custom_style_2 textarea:focus:-ms-input-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #494949;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 212, 1, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;height: 45px;font-family: Raleway;font-weight: 700;background-color: rgba(255, 212, 1, 1);border-width: 0px;border-radius: 0px;padding-left: 57px;padding-right: 57px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(236, 0, 140, 0.8);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 ::-webkit-input-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 :-moz-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 ::-moz-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 :-ms-input-placeholder { color: #818181;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 100px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { color: #818181;font-size: 12px;font-family: Raleway;font-weight: 700;background-color: rgba(255, 255, 255, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus::-webkit-input-placeholder, .cf7_custom_style_3 textarea:focus::-webkit-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus:-moz-placeholder, .cf7_custom_style_3 textarea:focus:-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus::-moz-placeholder, .cf7_custom_style_3 textarea:focus::-moz-placeholder { color: #969696;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input:focus:-ms-input-placeholder, .cf7_custom_style_3 textarea:focus:-ms-input-placeholder { color: #969696;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { color: #969696;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-size: 12px;font-family: Raleway;font-weight: 700;background-color: rgba(255, 212, 1, 1);padding-left: 72px;padding-right: 72px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_hover_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(236, 0, 140, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 ::-webkit-input-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 :-moz-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 ::-moz-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 :-ms-input-placeholder { color: #565656;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_text_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz { color: #565656;font-size: 14px;line-height: 26px;font-family: Montserrat;font-weight: 400;letter-spacing: 0px;background-color: rgba(255, 255, 255, 1);border-color: rgba(236, 0, 140, 1);border-width: 1px;border-radius: 0px;padding-top: 8.5px;padding-right: 0px;padding-bottom: 8.5px;padding-left: 17px;margin-bottom: 0px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus::-webkit-input-placeholder, .cf7_custom_style_4 textarea:focus::-webkit-input-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus:-moz-placeholder, .cf7_custom_style_4 textarea:focus:-moz-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus::-moz-placeholder, .cf7_custom_style_4 textarea:focus::-moz-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input:focus:-ms-input-placeholder, .cf7_custom_style_4 textarea:focus:-ms-input-placeholder { color: #494949;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_focus_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_4 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_4 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_4 input.wpcf7-form-control.wpcf7-quiz:focus { color: #494949;background-color: rgba(255, 255, 255, 1);border-color: rgba(236, 0, 140, 1);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_label_styles_4 function */
+.cf7_custom_style_4 p { color: #ffffff;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit { color: #ffffff;font-size: 12px;height: 45px;font-family: Raleway;font-weight: 700;background-color: rgba(236, 0, 140, 1);border-width: 0px;border-radius: 0px;padding-left: 57px;padding-right: 57px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/contactform7/custom-styles/contact-form.php vangard_edge_contact_form7_button_hover_styles_4 function */
+.cf7_custom_style_4 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(255, 212, 1, 0.8);}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/header/custom-styles/header.inc vangard_edge_header_top_bar_styles function */
+.edgtf-top-bar { height: 50px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/header/custom-styles/header.inc vangard_edge_header_top_bar_styles function */
+.edgtf-top-bar .edgtf-logo-wrapper a { max-height: 50px;}
+
+/* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/header/custom-styles/header.inc vangard_edge_header_top_bar_styles function */
+.edgtf-top-bar { background-color: rgba(48, 48, 48, 1);}
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                
+        
+        
+        
+        
+        
+        
+        
+        
+                
+                /* generated in /www/sites/vangard.edge-themes.com/files/html/wp-content/themes/vangard/framework/modules/sidearea/custom-styles/sidearea.php vangard_edge_side_area_styles function */
+.edgtf-side-menu, .edgtf-side-area-uncovered-from-content .edgtf-side-menu, .edgtf-side-menu-slide-from-right .edgtf-side-menu { background-color: #ffffff;}
+
